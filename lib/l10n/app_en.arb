@@ -1,0 +1,19 @@
+{
+    "@@locale": "en",
+    "sponsors": "Sponsors",
+    "@sponsors": {
+        "description": "Sponsors"
+    },
+    "alipay": "Alipay",
+    "@alipay": {
+        "description": "Alipay"
+    },
+    "wechatPay": "WeChat Pay",
+    "@wechatPay": {
+        "description": "WeChat Pay"
+    },
+    "bitcoinWallet": "Bitcoin Wallet",
+    "@bitcoinWallet": {
+        "description": "Bitcoin Wallet"
+    }
+}
